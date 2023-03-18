@@ -1,0 +1,10 @@
+.DS_Store
+*.egg-info/
+*.h5ad
+*.loom
+notebooks/.ipynb_checkpoints/*
+*.pyc
+*.tar
+data/raw/GSE139522_RAW/*
+data/raw/*/*.gz
+__pycache__/
